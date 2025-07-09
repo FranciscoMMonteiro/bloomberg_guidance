@@ -2,8 +2,8 @@
 import sys
 import os
 user = os.getlogin()
-sys.path.append(f"C:\\Users\\{user}\\ATMOSPHERE\\Atmosphere Capital - Gestão Geral\\Automation\\AtmLib")
-sys.path.append(f"C:\\Users\\{user}\\ATMOSPHERE\\Atmosphere Capital - Gestão Geral\\Automation\\AtmLib\\atmlib")
+sys.path.append()
+sys.path.append()
 
 import MongoDB
 import mongo
